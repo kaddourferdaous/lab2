@@ -88,3 +88,4 @@ J'ai calculé la précision en comparant les prédictions avec les labels réels
 J'ai affiché la perte et la précision après chaque époque.
 </p>
 <h3>3. Compare the two models (By using several metrics (Accuracy, F1 score, Loss, Training time))</h3>
+![Aperçu](Images/result.png)
