@@ -88,4 +88,6 @@ J'ai calculé la précision en comparant les prédictions avec les labels réels
 J'ai affiché la perte et la précision après chaque époque.
 </p>
 <h3>3. Compare the two models (By using several metrics (Accuracy, F1 score, Loss, Training time))</h3>
-![Aperçu](Images/result.png)
+Le modèle 2 (RCNNClassifier) a obtenu les meilleurs résultats avec une précision de 99,06%, un score F1 de 0,9906 et une perte de 0,0289, surpassant le modèle 1 (CNNModel), qui a atteint une précision de 98,90%, un score F1 de 0,9890 et une perte de 0,0290. Cependant, le modèle 2 a nécessité un temps d'exécution nettement plus long (2238,45 secondes contre 587,17 secondes pour le modèle 1).
+
+
